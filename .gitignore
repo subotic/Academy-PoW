@@ -3,3 +3,5 @@
 addresses.json
 fork-visualizer/.env
 !fork-visualizer/.env.example
+
+/.direnv
